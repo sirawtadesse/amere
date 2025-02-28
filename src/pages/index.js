@@ -118,7 +118,7 @@ export default function Home() {
 
         <section id="experience" className="section-container">
           <h2>Experience</h2>
-          <p>I have four years of experience in auditing, financial analysis, and risk management within the banking sector. My key responsibilities include:</p>
+          <p>I have four years of experience in banking sector as CSO-Maker, CSO Maker/Checker, Acting Auditor and Resident Auditor II. My key responsibilities include:</p>
             <ul>
                  <p>Conducting internal audits and financial risk assessments at Dashen Bank SC.</p>
                  <p>Developing reports on compliance, fraud detection, and financial efficiency.</p>
